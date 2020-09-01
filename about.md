@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hi there, I'm Akhilesh Thorat. I build software for connected smart systems, especially  resource constrained devices. 
